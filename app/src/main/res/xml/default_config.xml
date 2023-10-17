@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>facebookAppId</key>
+        <value>12345</value>
+    </entry>
+    <entry>
+        <key>apiURL</key>
+        <value>https://5gbapps.site/</value>
+    </entry>
+
+    <entry>
+        <key>policyURL</key>
+        <value>https://5gbapps.site/policy</value>
+    </entry>
+
+    <entry>
+        <key>gameURL</key>
+        <value>https://5gbapps.site/gameID/</value>
+    </entry>
+
+    <entry>
+        <key>jsInterface</key>
+        <value>jsBridge</value>
+    </entry>
+
+</defaultsMap>

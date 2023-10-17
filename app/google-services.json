@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661638782021",
+    "project_id": "mad-gaming-project-e1909",
+    "storage_bucket": "mad-gaming-project-e1909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661638782021:android:d0c2db7fafb4a244fad72c",
+        "android_client_info": {
+          "package_name": "tg.holdemcasino.tgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK08JW55czwJpV1I34BA9DP1m7DPa_OQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
